@@ -1,0 +1,32 @@
+{
+    "12": {
+        "max_score": 5,
+        "expected_points": [
+            "identifies the central difficulty faced by the characters",
+            "explains the challenges or obstacles",
+            "explains determination or efforts",
+            "provides a relevant comparison",
+            "gives a clear overall interpretation"
+        ]
+    },
+
+    "13": {
+        "max_score": 5,
+        "expected_points": [
+            "explains the conflict between humanity and patriotism",
+            "explains Dr. Sadao's responsibility as a doctor",
+            "mentions his treatment or help of the wounded soldier",
+            "explains the dilemma or conflict",
+            "provides a coherent conclusion about his decision"
+        ]
+    },
+
+    "17": {
+        "max_score": 3,
+        "expected_points": [
+            "addresses the main requirement of the question",
+            "provides relevant explanation",
+            "gives a clear conclusion"
+        ]
+    }
+}
